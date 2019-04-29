@@ -4,4 +4,4 @@
 3. DB&amp;Server<br>
 4. Web&amp;Server<br>
 
-한글로도 적힙니다.
+한글로도 글 써진다!
