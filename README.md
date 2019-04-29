@@ -4,4 +4,4 @@
 3. DB&amp;Server<br>
 4. Web&amp;Server<br>
 
-It's team project.
+한글로도 적힙니다.
